@@ -1,6 +1,6 @@
 # Solutions to AlgoExpert Problems in Six Programming Languages: Python, Go, JavaScript/TypeScript
 
-Discover solutions to AlgoExpert problems in six programming languages: Python, Java, Go, C++, C#, and JavaScript/TypeScript.
+Discover solutions to AlgoExpert problems in different programming languages: Python, Go, Typescript.
 
 ⭐ Table of Contents:
 

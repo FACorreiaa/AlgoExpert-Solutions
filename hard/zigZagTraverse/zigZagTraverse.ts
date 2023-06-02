@@ -11,6 +11,8 @@ function isOutOfBounds(
 
 function zigZagTraverse(arr: Array<Array<number>>) {
 	const height = arr.length - 1;
+	//const height: Array<number> = arr.at(-1) as Array<number>;
+
 	const width = arr[0].length - 1;
 	let result: Array<number> = [];
 

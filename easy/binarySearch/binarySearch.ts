@@ -1,7 +1,7 @@
 function interactiveBinarySearch(array: Array<number>, target: number): number {
 	let left = 0;
-	//change to arr.at(-1) later
-	let right = array.length - 1;
+	let right: number = array.at(-1) as number;
+	//let right = array.length - 1;
 	while (left < right) {
 		let middle = (left + 2) / 2;
 		let potentialMatch = array[middle];
