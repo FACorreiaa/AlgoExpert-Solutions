@@ -1,3 +1,5 @@
+// Time O(logN) | Space O(1)
+
 function interactiveBinarySearch(array: Array<number>, target: number): number {
 	let left = 0;
 	let right: number = array.at(-1) as number;
