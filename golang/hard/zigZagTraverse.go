@@ -1,4 +1,4 @@
-package zigzag_traverse
+package hard
 
 // important question
 

@@ -1,4 +1,4 @@
-package branch_sums
+package easy
 
 // important question
 

@@ -10,6 +10,22 @@ Discover solutions to AlgoExpert problems in different programming languages: Py
   - [Problems and Solutions](#problems-and-solutions)
 - [Contributing](#contributing)
 
+### Language
+
+👨‍💻 [Typescript](https://www.typescriptlang.org/) Typescript
+👨‍💻 [Python](https://www.python.org/) Python
+👨‍💻 [Golang](https://go.dev/) Go
+
+### run
+
+🚢 To run the Typescript solution
+
+```bash
+npm install -g ts-node
+cd typecript
+ts-node index.ts
+```
+
 ## Screenshots
 
 ![Arrays, Binary Search Trees, Binary Trees, and Dynamic Programming](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/arrays_bst_binary_tree_dynamic_programming.png)
